@@ -1564,15 +1564,15 @@
 		"files": {
 			"mods/desolated-pastels.pw.toml": {
 				"download": {
-					"hash": "bb592a29eb57fc07e549fb8da62dafda832416d587af61bb9c65b15afd49ab46",
+					"hash": "ad3bee6a3aa4a3bd152ce9cc49e9414b77f39328050dc5346845722593c89a7a",
 					"hash-format": "sha256",
-					"url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.5/demo.5.jar"
+					"url": "https://github.com/devOS-Sanity-Edition/DesolatedPastels/releases/download/v0.1.0-blanketcon25-demo.6/demo.6.jar"
 				},
-				"filename": "demo.5.jar",
+				"filename": "demo.6.jar",
 				"name": "desolated_pastels"
 			}
 		},
-		"key": "42c1f372dcb809fe2c253582419a93da2c45a2e2c5271fe2090cae37d730e7ef"
+		"key": "25e3ff62613db32ca4c0bd6b5714eae68fc7f7a31f9757ff3ca6604aa0755ba4"
 	},
 	"dont-do-that": {
 		"files": {
@@ -1876,15 +1876,15 @@
 		"files": {
 			"mods/festive-frenzy.pw.toml": {
 				"download": {
-					"hash": "30f1f3e1516c5b0f4514510ea4981604a091dcebc8e66cfc8b1726fc841882b8",
+					"hash": "8fe69e459155c9f50047460411041cb3b39cfb00b46036310377998813470708",
 					"hash-format": "sha256",
-					"url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7-blanketcon.jar"
+					"url": "https://github.com/Now-this-is-crazy/Festive-Frenzy/releases/download/BlanketCon/festive_frenzy-v7.1-blanketcon.jar"
 				},
-				"filename": "festive_frenzy-v7-blanketcon.jar",
+				"filename": "festive_frenzy-v7.1-blanketcon.jar",
 				"name": "festive_frenzy"
 			}
 		},
-		"key": "50212744f766aa183a4b3c8ddabf0a6e25e1567703a303203406b26072667d8b"
+		"key": "c041a6d06fb055cf6c56cf653fd0e24147a8e73eec30505487572738b63c1019"
 	},
 	"flamingo": {
 		"files": {
@@ -2254,6 +2254,10 @@
 			}
 		},
 		"key": "f2d1b5200877f01e74c11ac28b6675e4bf2ec42d9a7d5ddb79ef08c4c53aefba"
+	},
+	"honque": {
+		"files": {},
+		"key": "0097c79733fa5b1ca613b1d69048daad5f336bf888087fc5e8dbc90a7a25e94f"
 	},
 	"hoofprint": {
 		"files": {
@@ -2795,15 +2799,15 @@
 		"files": {
 			"mods/mirror-mod.pw.toml": {
 				"download": {
-					"hash": "585cdd58614566abe1087de4058b97849b24d5af42a6b1a9e23cc86226ac7516",
+					"hash": "bc4c923d5b364e2e82a1ef22dda5251cfebe143408e3e39cf4fd8c99008f1856",
 					"hash-format": "sha256",
-					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.5/mirror-fabric-1.21.1-0.2.4.jar"
+					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.6/mirror-fabric-1.21.1-0.2.6.jar"
 				},
-				"filename": "mirror-fabric-1.21.1-0.2.4.jar",
+				"filename": "mirror-fabric-1.21.1-0.2.6.jar",
 				"name": "mirror_mod"
 			}
 		},
-		"key": "64aacf88b9f8896ec3a6e865f9e74d143a679a38b2c7bd8286b50a2cbaa3f658"
+		"key": "4ae023b5ed73d9365b3bcb10acaaba3e74394c78bfc4c47402125f338c835ab2"
 	},
 	"mirthdew-encore": {
 		"files": {
@@ -3762,16 +3766,16 @@
 			},
 			"mods/pride-moths.pw.toml": {
 				"download": {
-					"hash": "161ef867963fb137bbdba0ed826b932d5ae455a9bc5877aaa93bb30e1c2fca39e37cd7bd252c0e032ce91dc959c6882dfc27da276bc506b1e1e0766a079dd43d",
+					"hash": "9355c08e0b47ca151b53a14b2544cf82bffecd532c1855c0c38a774491239199ac019c4ce3d547b70813ae4cba173f7a9cb7e84de8439cadd99654159223b521",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/sozOa537/pride-moths-1.8.5%2B1.21.jar"
+					"url": "https://cdn.modrinth.com/data/z4CDikCJ/versions/a51Wfmza/pride-moths-1.8.6%2B1.21.jar"
 				},
-				"filename": "pride-moths-1.8.5+1.21.jar",
+				"filename": "pride-moths-1.8.6+1.21.jar",
 				"name": "Happy Pride Moth!",
 				"side": "both"
 			}
 		},
-		"key": "6a617ec97a8b224afc2f953d922effee2c002e6a28f8314ccec48eb9ea04dda6"
+		"key": "1869d5405eaec76a8012e3c5138a4995e5b3bb78f36116f871efc0ef512d9082"
 	},
 	"pridegui": {
 		"files": {
