@@ -1655,41 +1655,6 @@
 		},
 		"key": "c29e2f35fdf0f51eacc0f90475ab41c59d7a0f4f93c4713fa1d46e8d53ea6fd3"
 	},
-	"emi-ores": {
-		"files": {
-			"mods/emi-ores.pw.toml": {
-				"download": {
-					"hash": "3ab30a424dc2f5c3bcb71d86ebffaa82767dd51710513bed2caa35574dd922a1f663357caeb5f4ce8e4392ad9518cafe79d281744b6c010612aef96f42eec094",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/sG4TqDb8/versions/OwDhxsDZ/emi_ores-1.2%2B1.21.1%2Bfabric.jar"
-				},
-				"filename": "emi_ores-1.2+1.21.1+fabric.jar",
-				"name": "EMI Ores",
-				"side": "both"
-			},
-			"mods/emi.pw.toml": {
-				"download": {
-					"hash": "b55a6a245b5947b91f1332f6131fd475dd37303d634246be3c45720f9e2316bd74310399722b31a8c99c5e7f5af13ece3a07bd0a2648760fbfcbc7c6be159122",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/fRiHVvU7/versions/WjqfEAwF/emi-1.1.20%2B1.21.1%2Bfabric.jar"
-				},
-				"filename": "emi-1.1.20+1.21.1+fabric.jar",
-				"name": "EMI",
-				"side": "both"
-			},
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
-			}
-		},
-		"key": "1501149ff01698fd63469e8a8e87b49d611f70589333416b807759f9b9a92e92"
-	},
 	"enchiridion": {
 		"files": {
 			"mods/enchiridion.pw.toml": {
@@ -2861,15 +2826,15 @@
 		"files": {
 			"mods/mirror-mod.pw.toml": {
 				"download": {
-					"hash": "afef0d5b3bcfd7cd48c88051264f15db88b90b7e76faa2228ed61a100c6a8e73",
+					"hash": "585cdd58614566abe1087de4058b97849b24d5af42a6b1a9e23cc86226ac7516",
 					"hash-format": "sha256",
-					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.4/mirror-fabric-1.21.1-0.2.4.jar"
+					"url": "https://github.com/FoundryMC/mirror-mod/releases/download/0.2.5/mirror-fabric-1.21.1-0.2.4.jar"
 				},
 				"filename": "mirror-fabric-1.21.1-0.2.4.jar",
 				"name": "mirror_mod"
 			}
 		},
-		"key": "ef95969e80d8394256081582bd7fcc3373929bc9d3a2e12064597383ada0419c"
+		"key": "64aacf88b9f8896ec3a6e865f9e74d143a679a38b2c7bd8286b50a2cbaa3f658"
 	},
 	"mirthdew-encore": {
 		"files": {
@@ -3284,16 +3249,16 @@
 			},
 			"mods/paladins-furniture.pw.toml": {
 				"download": {
-					"hash": "3c68f90f1efe459e32656bdb48a75508027463ce640c7ec09b96766d5a7b1f0d820409d4ed7af6ead1ced0601ad4b4c717d56f89023a1688f7df4b149c8b8f7c",
+					"hash": "60a9a7c2e8e2b755e3e2d615eee66d4c91593436096e591cdd314f95640d9c88f3a59c22b8f036ccb27dcd80b47937ec6e319a64659b9a471016090dc080b542",
 					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/twplj2d5/paladin-furniture-mod-1.4-fabric-mc1.21.1.jar"
+					"url": "https://cdn.modrinth.com/data/SISz7Qd3/versions/wdSNmQGh/paladin-furniture-mod-1.4.1-fabric-mc1.21.1.jar"
 				},
-				"filename": "paladin-furniture-mod-1.4-fabric-mc1.21.1.jar",
+				"filename": "paladin-furniture-mod-1.4.1-fabric-mc1.21.1.jar",
 				"name": "Paladin's Furniture Mod",
 				"side": "both"
 			}
 		},
-		"key": "bf8bb2dbb0d6fcbf4bc11f87d075489c59d70d2f9ed9c73559592b8e6a8ecf6b"
+		"key": "4416e18dfd5b5629949d1644aa2ad0bf67efe4f57e9738ce3154ea9af109b73a"
 	},
 	"particular": {
 		"files": {
@@ -4942,40 +4907,15 @@
 		"files": {
 			"mods/trickster.pw.toml": {
 				"download": {
-					"hash": "bc8f3e4b472cfdcf6eac3241968a4874d74c8ea89cbd333da89e238595280323",
+					"hash": "aac3d47c3edc495847f366019ef1be566a788ffa385a876962bc76cecb019303",
 					"hash-format": "sha256",
-					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.2/trickster-2.0.0-beta.17-blanketcon.2.jar"
+					"url": "https://github.com/enjarai/trickster/releases/download/2.0.0-beta.17-blanketcon.3/trickster-2.0.0-beta.17-blanketcon.3.jar"
 				},
-				"filename": "trickster-2.0.0-beta.17-blanketcon.2.jar",
+				"filename": "trickster-2.0.0-beta.17-blanketcon.3.jar",
 				"name": "trickster"
 			}
 		},
-		"key": "0b496a0f99bac364a67b4a7e25e309d095b852be027dd0d19e1dcb76e41fdee5"
-	},
-	"twisted-and-carved": {
-		"files": {
-			"mods/fabric-api.pw.toml": {
-				"download": {
-					"hash": "54e039c309e3001089cd97b382cd0193c4fa5eaa92eeb351409588d8a203cdd81e7133d0479bd66331d487a69259e4b7b2db138afec99707f4d43dafc11aa13b",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/aHOmYIWr/fabric-api-0.115.1%2B1.21.1.jar"
-				},
-				"filename": "fabric-api-0.115.1+1.21.1.jar",
-				"name": "Fabric API",
-				"side": "both"
-			},
-			"mods/twisted-and-carved.pw.toml": {
-				"download": {
-					"hash": "8bd5fc31e3baaef0a0b55c9e9013d63eb060dcfda32a47f027e2c4a88c778dd87a5b7646a2fe512c870e5ee3bbe0ded470928100f0fe3d54d11b3e9b44a16389",
-					"hash-format": "sha512",
-					"url": "https://cdn.modrinth.com/data/MWpRjnYD/versions/IVZb2tEh/twisted-and-carved-1.21.1_1.0.0.jar"
-				},
-				"filename": "twisted-and-carved-1.21.1_1.0.0.jar",
-				"name": "Twisted And Carved",
-				"side": "both"
-			}
-		},
-		"key": "c8c94bf22fbabc035e5fddb01f8d908c798ece0e0ec261b17b878f12476d4357"
+		"key": "b3d3939a0aed464424de196d1d8f407daa0ac75c557e52fd52aa43a34b6793f0"
 	},
 	"ubes-delight": {
 		"files": {
