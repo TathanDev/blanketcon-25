@@ -11,3 +11,7 @@ maddys_origins
 # Texture mtr:block/sign/door_overlay_sp1900_top with size 240x30 limits mip level from 2 to 1
 # crashes on mac & mip issues
 neomtr
+
+# possibly registry fail
+charta
+

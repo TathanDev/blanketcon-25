@@ -1,6 +1,21 @@
 hash-format = "sha256"
 
 [[files]]
+file = "allium/default_components_demo/demo.lua"
+
+[[files]]
+file = "allium/default_components_demo/manifest.json"
+
+[[files]]
+file = "allium/hangman/main.lua"
+
+[[files]]
+file = "allium/hangman/manifest.json"
+
+[[files]]
+file = "allium/hangman/words.lua"
+
+[[files]]
 file = "basicweapons_materialpacks/bwmp_copper_minecraft.pw.toml"
 metafile = true
 
@@ -20,6 +35,9 @@ file = "config/bobby.conf"
 file = "config/canary.json"
 
 [[files]]
+file = "config/chitinous_ties.json5"
+
+[[files]]
 file = "config/chunksfadein.properties"
 
 [[files]]
@@ -35,13 +53,22 @@ file = "config/familiar_friends.json"
 file = "config/fireblanket/fireblanket.txt"
 
 [[files]]
+file = "config/glowcase.toml"
+
+[[files]]
 file = "config/hoofprint.toml"
+
+[[files]]
+file = "config/magiclib.json"
 
 [[files]]
 file = "config/modernfix-mixins.properties"
 
 [[files]]
 file = "config/modfest_sync/behaviour.properties"
+
+[[files]]
+file = "config/modmenu.json"
 
 [[files]]
 file = "config/quickerconnectbutton.json5"
@@ -93,6 +120,9 @@ file = "config/waila/waila_plugins.json"
 
 [[files]]
 file = "config/wilderwild/block.json5"
+
+[[files]]
+file = "config/wilderwild/mixins.json5"
 
 [[files]]
 file = "config/wwizardry.json"
@@ -255,19 +285,11 @@ file = "mods/placeholder-api.pw.toml"
 metafile = true
 
 [[files]]
-file = "mods/player-pronouns.pw.toml"
-metafile = true
-
-[[files]]
 file = "mods/player-roles.pw.toml"
 metafile = true
 
 [[files]]
 file = "mods/polymer.pw.toml"
-metafile = true
-
-[[files]]
-file = "mods/primordia.pw.toml"
 metafile = true
 
 [[files]]
@@ -511,6 +533,24 @@ file = "resources/common/required/mf_shards/data/scattered_shards/shard_type/typ
 
 [[files]]
 file = "resources/common/required/mf_shards/pack.mcmeta"
+
+[[files]]
+file = "resources/datapack/required/default_components_demo/data/fancy_items_mod/default_components/all_of_it.json"
+
+[[files]]
+file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/baked_potato.json"
+
+[[files]]
+file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/netherite_scrap.json"
+
+[[files]]
+file = "resources/datapack/required/default_components_demo/data/something_that_isnt_a_mod/default_components/not_a_real_item.json"
+
+[[files]]
+file = "resources/datapack/required/default_components_demo/data/trickster/default_components/knots.json"
+
+[[files]]
+file = "resources/datapack/required/default_components_demo/pack.mcmeta"
 
 [[files]]
 file = "resources/datapack/required/mf_ballotbox/data/ballotbox/ballot/categories.json"
@@ -1051,6 +1091,45 @@ file = "resources/resourcepack/required/cxd106108109/assets/mtrsteamloco/rails/s
 
 [[files]]
 file = "resources/resourcepack/required/cxd106108109/pack.mcmeta"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/blockstates/cauldron.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/items/blossom_dust.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/items/cauldron.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/items/cherry_blossom_cake.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/models/block/cauldron.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/models/item/blossom_dust.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/models/item/cherry_blossom_cake.json"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/textures/block/cauldron_inner.png"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/textures/block/cauldron_side.png"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/textures/block/cauldron_top.png"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/textures/item/blossom_dust.png"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/assets/fancy_items_mod/textures/item/cherry_blossom_cake.png"
+
+[[files]]
+file = "resources/resourcepack/required/default_components_demo/pack.mcmeta"
 
 [[files]]
 file = "resources/resourcepack/required/mf_branding/assets/glowcase/lang/en_us.json"
