@@ -541,13 +541,7 @@ file = "resources/datapack/required/default_components_demo/data/fancy_items_mod
 file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/baked_potato.json"
 
 [[files]]
-file = "resources/datapack/required/default_components_demo/data/minecraft/default_components/netherite_scrap.json"
-
-[[files]]
 file = "resources/datapack/required/default_components_demo/data/something_that_isnt_a_mod/default_components/not_a_real_item.json"
-
-[[files]]
-file = "resources/datapack/required/default_components_demo/data/trickster/default_components/knots.json"
 
 [[files]]
 file = "resources/datapack/required/default_components_demo/pack.mcmeta"
